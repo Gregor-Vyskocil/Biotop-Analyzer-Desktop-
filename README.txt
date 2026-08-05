@@ -8,3 +8,5 @@ Launch and use: Launch by pressing BiotopAnalyzer.exe and load image you want to
 If you encounter any bugs, please, inform us so we can improve the software! 
 
 Thank you and enjoy!
+
+We kindly ask users to put citation of our software in their works: Pavlíček, J. & Tetaur, A. (2023) BiotopAnalyzer [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21809301
